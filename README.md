@@ -1,24 +1,59 @@
-# README
+# Hello rails-react
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> An example of using the gem react-rails for developing back and front-end applications
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+To get a local copy of the project, follow these steps: 
+1. Open the terminal and navigate to the folder where you would like to put these files.
+2. Type the following commands into the terminal: https://github.com/fasaldana/hello-rails-react.git
+ ```
+ git clone 
+ ```
+ ```
+ cd hello-rails-react
+ ```
 
-* System dependencies
+```
+bundle install
+```
+```
+'npm install' or 'yarn install'
+```
+```
+rails db:create
+```
+```
+rails db:migrate
+```
 
-* Configuration
+```
+'rails s' to start the server locally
+```
 
-* Database creation
+## Author
 
-* Database initialization
+👤 **Fernando Saldaña**
 
-* How to run the test suite
+- GitHub: [@fasaldana](https://github.com/fasaldana)
+- Twitter: [@Fernandosal98](https://twitter.com/Fernandosal98)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fernando-saldana-8bbb89228/)
 
-* Services (job queues, cache servers, search engines, etc.)
+## 🤝 Contributing
 
-* Deployment instructions
+Contributions, issues, and feature requests are welcome!
 
-* ...
+Feel free to check the [issues page](https://github.com/hsztan/Paymintz/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Thanks to all the Micromates and the Ruby on Rails community for their support.
+- Original design idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella).
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
